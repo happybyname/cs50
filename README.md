@@ -1,2 +1,2 @@
 # cs50
-CS50 project work
+CS50 Introduction to Computer Science project work
